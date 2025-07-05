@@ -42,6 +42,10 @@ Choose one of the following:
 - **GitHub Models**: GitHub-hosted AI models
 - **OpenAI API**: GPT-3.5/4 (requires API key)
 - **Hugging Face**: Open-source models
+- 
+### Output
+<img width="701" alt="Screenshot 2025-07-05 at 5 07 41 PM" src="https://github.com/user-attachments/assets/4da72ed9-3614-4c24-b3d7-c211e0ac9fad" />
+
 
 ## 🚀 Setup Instructions
 
