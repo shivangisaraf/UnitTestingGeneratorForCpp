@@ -43,9 +43,6 @@ Choose one of the following:
 - **OpenAI API**: GPT-3.5/4 (requires API key)
 - **Hugging Face**: Open-source models
 
-##OUTPUT
-![Uploading Screenshot 2025-07-05 at 5.07.41 PM.png…]()
-
 ## 🚀 Setup Instructions
 
 ### 1. Environment Setup
