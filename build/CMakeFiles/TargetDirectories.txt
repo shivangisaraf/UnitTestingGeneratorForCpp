@@ -1,0 +1,3 @@
+/Users/siddharthshukla/cpp-string-utils/build/CMakeFiles/runTests.dir
+/Users/siddharthshukla/cpp-string-utils/build/CMakeFiles/edit_cache.dir
+/Users/siddharthshukla/cpp-string-utils/build/CMakeFiles/rebuild_cache.dir
